@@ -4,5 +4,6 @@ streamlit
 yfinance
 plotly
 datetime
+matplotlib
 PyPortfolioOpt
 pandas_datareader
