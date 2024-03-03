@@ -3,8 +3,7 @@ pandas
 streamlit
 yfinance
 plotly
-datetime
 matplotlib
 seaborn
-pyportfolioopt
+pyportfolioopt@git+https://github.com/robertmartin8/PyPortfolioOpt@master
 pandas_datareader
