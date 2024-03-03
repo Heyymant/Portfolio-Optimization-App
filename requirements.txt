@@ -1,0 +1,8 @@
+numpy
+pandas
+streamlit
+yfinance
+plotly
+datetime
+PyPortfolioOpt
+pandas_datareader
