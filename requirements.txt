@@ -6,5 +6,5 @@ plotly
 datetime
 matplotlib
 seaborn
-PyPortfolioOpt
+pyportfolioopt
 pandas_datareader
