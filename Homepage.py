@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 import yfinance as yf
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 # import plotly.figure_factory as ff
 
@@ -22,7 +22,7 @@ import plotly.express as px
 import seaborn as sns
 from datetime import datetime
 from io import BytesIO
-# plt.style.use('fivethirtyeight')
+plt.style.use('fivethirtyeight')
 
 @st.cache_data
 def bg_png(png):
