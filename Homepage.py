@@ -10,7 +10,6 @@ import yfinance as yf
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 # import plotly.figure_factory as ff
-
 from pypfopt.efficient_frontier import EfficientFrontier
 from pypfopt import risk_models
 from pypfopt import expected_returns
