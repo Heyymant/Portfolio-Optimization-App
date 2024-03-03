@@ -185,7 +185,7 @@ try:
   ###################################################################
       # Setting up the basic page layout of the application
     st.set_page_config(page_title = "Hemant's Stock Portfolio Optimizer", 
-                        page_icon="🧊",
+                        page_icon="📈",
                         layout="centered",
                         initial_sidebar_state="expanded",
                         menu_items={
