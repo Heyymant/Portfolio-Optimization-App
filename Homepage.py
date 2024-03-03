@@ -196,7 +196,13 @@ try:
 
     #########################################################################
     st.title("Portfolio Optimization")
-    st.header("Made by Hemant ", divider = "rainbow")
+    st.header('''Made by Hemant''' ,divider = "rainbow"  )
+
+    st.markdown('''
+                [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-kumar-174157193/)
+    &nbsp;
+                [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heyymant)
+                ''')
     st.markdown('''
             🚀 Welcome to our Dynamic Portfolio Optimization Project! 📈
 
